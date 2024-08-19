@@ -1,0 +1,7 @@
+{
+  "name": "SecretSpotProject",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
